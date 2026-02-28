@@ -1,0 +1,6 @@
+PyQt5
+jedi
+lupa
+numpy
+rich
+colorama
