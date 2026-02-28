@@ -1,5 +1,11 @@
 Please be aware that there might be some bugs since this all was written in python.
 
+Also please install all the necesearry python libraries from the requirements.txt file before activating the *.exe file
+
+to make your lives easier i will post all commands here
+
+python -m pip install --upgrade pip
+python -m pip install PyQt5 jedi lupa numpy rich colorama
 
 # GXScripter Snippet Reference
 
